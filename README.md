@@ -1,7 +1,9 @@
 # ESP-Simple
 服务于ESP8266，硬件开源在立创开源社区，软件在GitHub。
 
+[软件链接](https://github.com/SwiperWitty/ESP-Simple)
 
+[硬件链接](https://oshwhub.com/)
 
 
 
@@ -29,3 +31,16 @@ ESP8266的IO2,IO15分别要上拉，下拉（烧入）。一般的开发板并�
 
 
 
+
+
+我叫**卡文迪许怪**！又称**哆啦A梦本梦**！
+
+我的网址
+
+[卡文迪许怪-bilibili](https://space.bilibili.com/102898291) （常用）
+
+[SwiperWitty-GitHub](https://github.com/SwiperWitty) （常用）
+
+[Swiper_witty-Gitee](https://gitee.com/Swiper_witty) (不常用)
+
+QQ群：455839434 （讨论、问问题）
