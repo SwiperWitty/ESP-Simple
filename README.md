@@ -7,8 +7,6 @@
 
 
 
-![9545ce5654d3f5028b21ea7c51e2d32](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900330.jpg)
-
 ![bcccb8194d3e00026a2e94544f552ba](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900163.png)
 
 
