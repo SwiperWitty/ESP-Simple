@@ -7,9 +7,13 @@
 
 
 
-![image-20230207111723039](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302071117096.png)
+![9545ce5654d3f5028b21ea7c51e2d32](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900330.jpg)
+
+![bcccb8194d3e00026a2e94544f552ba](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900163.png)
 
 
+
+![64a339d38aea23f69ef5eead13ecdfa](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900093.png)
 
 ### 硬件的坑
 
@@ -32,6 +36,12 @@ ESP8266的IO2,IO15分别要上拉，下拉（烧入）。一般的开发板并�
 
 
 
+
+
+
+______
+
+![b3270d258eef3f22e0fd0c237d45169](https://gitee.com/Swiper_witty/caven_img/raw/master/img/202302210900718.jpg)
 
 我叫**卡文迪许怪**！又称**哆啦A梦本梦**！
 
